@@ -1,0 +1,13 @@
+.reset-btn{
+    border:none;
+    border-radius: 0.5rem;
+    background-color: rgb(97, 97, 224);
+    color: white;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    margin: 2rem auto;
+    display: block;
+}
+.reset-btn:hover{
+    border: 2px solid blue;
+}
